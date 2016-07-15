@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="title_activity_detail">Movie Details</string>
+
+    <string name="poster_quality">w185</string>
+    <string name="backdrop_quality">w780</string>
+    <string name="api_base_url">https://api.themoviedb.org/3/movie</string>
+    <string name="poster_base_url">http://image.tmdb.org/t/p</string>
+    <string name="trailer_thumbnail_base_url">http://img.youtube.com/vi</string>
+    <string name="trailer_video_base_url">http://www.youtube.com/watch</string>
+
+    <string name="sort_by_popularity">Sort By Popularity</string>
+    <string name="sort_by_rating">Sort By Top Rated</string>
+</resources>
